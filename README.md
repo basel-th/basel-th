@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi there  I am BASEL AHMED 👋
 
 
-**basel-th/basel-th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
