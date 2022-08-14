@@ -1,7 +1,7 @@
 ###  I AM BASEL AHMED 👋
 ## BACK END WEB DEVELPER
 
-- 🔭 I’m currently working on ... PHP|MYSQL|HTML|CSS|BOOSTRAP
+- 🔭 I’m currently working on ... PHP | MYSQL | HTML | CSS | BOOSTRAP
 - 🌱 I’m currently learning ... LARAVEL
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... WEB BACKEND
