@@ -1,11 +1,11 @@
 ###  I AM BASEL AHMED 👋
 ## Back-End Web Developer
 
-- 🔭 I’m currently working on PHP | MYSQL | HTML | CSS | BOOSTRAP
-- 🌱 I’m currently learning  FRAMEWORK [LARAVEL]
+- 🔭 I’m currently working on Php | Mysql | Html | Css | Boostrap
+- 🌱 I’m currently learning  Framework [Laravel]
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with  WEB BACKEND
-- 💬 Ask me about   WEB DEVEPMENTING
+- 🤔 I’m looking for help with  Web Bak-End Develpmenting
+- 💬 Ask me about  Web Bak-End Develpmenting
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
