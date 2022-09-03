@@ -18,11 +18,13 @@
   ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 
-     <img  ailgn="left" width="97%" src="https://github-readme-stats.vercel.app/api?username=basel-th&show_icons=true&theme=dark"/>
+    <img  ailgn="left" width="97%" src="https://github-readme-stats.vercel.app/api?username=basel-th&show_icons=true&theme=dark"/>
    
       
+    <img  ailgn="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=basel-th&repo=M_Store"/>
+    <img  ailgn="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=basel-th&repo=Medical-"/>
    
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+   
      
    
     
