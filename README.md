@@ -7,11 +7,14 @@
 - 😄 Pronouns: ...
 -  ⚡Fun fact: ... 
     ## 📫 Reach me on
-   
-     <img  ailgn="left" width="14%" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-     <img  ailgn="left" width="11%" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-     <img  ailgn="left" width="13%" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
-     <img  ailgn="left" width="15%" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
+      <a href="https://www.instagram.com/basel_7th_">
+     <img  ailgn="left" width="14%" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+      <a href="https://www.instagram.com/basel_7th_">
+     <img  ailgn="left" width="11%" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+     <a href="https://www.instagram.com/basel_7th_">
+     <img  ailgn="left" width="13%" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+      <a href="https://www.instagram.com/basel_7th_">
+     <img  ailgn="left" width="15%" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
     
     ## 📋 Languages & Frameworks
     ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
