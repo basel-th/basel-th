@@ -30,7 +30,7 @@
     ## 📋 GitHub Stats
     <img  ailgn="left" width="97%" src="https://github-readme-stats.vercel.app/api?username=basel-th&show_icons=true&theme=dark"/>
   
-     ## 💻 Check Out My Repos ⬇️r
+     ## 💻 Check Out My Repos ⬇️
      
   
    
