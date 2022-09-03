@@ -1,14 +1,11 @@
 ###  I AM BASEL AHMED 👋
 # Back-End Web Developer 👨‍💻
 
-- 🔭 I’m currently working on Php | Mysql | Html | Css | Boostrap
-- 🌱 I’m currently learning  Framework [Laravel]
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with  Web Bak-End Develpmenting
 - 💬 Ask me about  Web Bak-End Develpmenting
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... 
+-  ⚡Fun fact: ... 
     ## 📫 Reach me on
    
      <img  ailgn="left" width="14%" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -27,7 +24,7 @@
 
     
   
-    ## 📋 GitHub Stats
+    ## ⚡GitHub Stats
     <img  ailgn="left" width="97%" src="https://github-readme-stats.vercel.app/api?username=basel-th&show_icons=true&theme=dark"/>
   
      ## 💻 Check Out My Repos ⬇️
