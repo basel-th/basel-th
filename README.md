@@ -14,7 +14,7 @@
      <a href="">
      <img  ailgn="left" width="18%" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
       <a href="https://www.facebook.com/profile.php?id=100012501995448">
-     <img  ailgn="left" width="20%" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+     <img  ailgn="left" width="20%" src="https://www.facebook.com/profile.php?id=100012501995448"/></a>
     
     ## 📋 Languages & Frameworks
     ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
