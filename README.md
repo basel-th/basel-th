@@ -9,7 +9,7 @@
     ## 📫 Reach me on
       <a href="https://www.instagram.com/basel_7th_">
      <img  ailgn="left" width="19.5%" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-      <a href="https://www.instagram.com/basel_7th_">
+      <a href="baselahmed856@gmail.com">
      <img  ailgn="left" width="15%" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
      <a href="https://www.instagram.com/basel_7th_">
      <img  ailgn="left" width="18%" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
