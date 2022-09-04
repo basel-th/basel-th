@@ -11,7 +11,7 @@
      <img  ailgn="left" width="19.5%" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
       <a href="">
      <img  ailgn="left" width="15%" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-     <a href="">
+     <a href="https://twitter.com/Baselahmeed">
      <img  ailgn="left" width="18%" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
       <a href="https://www.facebook.com/profile.php?id=100012501995448">
      <img  ailgn="left" width="20%" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
