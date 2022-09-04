@@ -7,7 +7,7 @@
 - 😄 Pronouns: ...
 -  ⚡Fun fact: ... 
     ## 📫 Reach me on
-      <a href="">
+      <a href="https://www.linkedin.com/in/basel-ahmed-a4975b1b5/">
      <img  ailgn="left" width="19.5%" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
       <a href="">
      <img  ailgn="left" width="15%" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
