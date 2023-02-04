@@ -1,6 +1,7 @@
 ###  I AM BASEL AHMED 👋
 ##  Web Developer 👨‍💻
- I am web developer help you to bulid your webiste 
+ I Am Web Developer Help You To Bulid Your Webiste 
+ 
 
 ## 📫 Reach me on
  <a href="https://www.linkedin.com/in/basel-ahmed-a4975b1b5/">
