@@ -1,6 +1,7 @@
 ###  I AM BASEL AHMED 👋
 ##  Web Developer 👨‍💻
- I have experience with a variety of programming languages and web development frameworks. I am a motivated and hard-working individual who is always looking to improve my skills and learn new technologies.
+ I have experience with a variety of programming languages and web development frameworks.
+ I am a motivated and hard-working individual who is always looking to improve my skills and learn new technologies.
  
 
 ## 📫 Reach me on
